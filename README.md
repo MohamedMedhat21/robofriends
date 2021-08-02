@@ -10,11 +10,16 @@ A single webpage that contains robots with their names and emails and you can se
 
 ![register-page](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/app-test.png)
 
-## To test
+## Installation
 
 ```bash
+# Clone the repo
+$ git clone https://github.com/MohamedMedhat21/robofriends.git
+
+# Install dependencies
 $ npm install
 ```
+## Getting Started
 
 ```bash
 $ npm start
