@@ -2,14 +2,6 @@
 
 A single webpage that contains robots with their names and emails and you can search them from the search box :)
 
-## Home page
-
-![register-page](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/homepage.png)
-
-## testing the App
-
-![register-page](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/app-test.png)
-
 ## Installation
 
 ```bash
@@ -24,6 +16,14 @@ $ npm install
 ```bash
 $ npm start
 ```
+
+## Home page
+
+![register-page](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/homepage.png)
+
+## testing the App
+
+![register-page](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/app-test.png)
 
 ## Getting Started with Create React App
 
