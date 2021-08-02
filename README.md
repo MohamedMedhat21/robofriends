@@ -2,6 +2,10 @@
 
 A single webpage that contains robots with their names and emails and you can search them from the search box :)
 
+## Preview
+
+https://mohamedmedhat21.github.io/robofriends/
+
 ## Installation
 
 ```bash
